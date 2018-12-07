@@ -1,0 +1,2 @@
+Gooogle Maps API Key = AIzaSyD1Fete8ga92xe73jB6Euof_ASpNZ7Hj7E
+Map Coordinate = 3.229026, 101.639603
